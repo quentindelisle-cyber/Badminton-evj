@@ -1,7 +1,7 @@
 /* EVJ Badminton - Service Worker */
 const CACHE_NAME = "evj-badminton-pwa-v1";
 const ASSETS = [
-  "./EVJ%20Badminton.html",
+  "./index.html",
   "./manifest.webmanifest",
   "./offline.html",
   "./icons/icon-192.png",
