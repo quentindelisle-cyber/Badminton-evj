@@ -1,7 +1,7 @@
 {
   "name": "Observer des Trajectoires en Badminton (EVJ)",
   "short_name": "EVJ Badminton",
-  "start_url": "./EVJ%20Badminton.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "landscape",
